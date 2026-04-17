@@ -143,7 +143,7 @@ Thumbs.db
 *.temp
 
 # Uploads (if generated)
-static/uploads/
+# static/uploads/
 
 # Alembic
 # Keep versions/ but ignore other generated files if any
